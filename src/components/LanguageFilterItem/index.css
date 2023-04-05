@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.li-item1 {
+  list-style-type: none;
+  padding-left: 0;
+}
+.btn {
+  outline: none;
+  border: 0px solid #000000;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: bold;
+  margin: 10px;
+  background-color: transparent;
+  cursor: pointer;
+}
+.btn-clicked {
+  border: 1px solid #0284c7;
+  color: #0284c7;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
